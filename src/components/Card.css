@@ -1,0 +1,14 @@
+
+.col{
+    margin-bottom: 6rem;
+    
+}
+.card-img-top{
+    height: 300px;
+    
+}
+.card-group{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    margin-top: 4rem;
+}
